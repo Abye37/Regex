@@ -1,6 +1,6 @@
 # Regex
 
-2 Trouve l'expression régulière qui cherche la seule occurrence du deuxième prénom de Néo (soit le A. de "Thomas A. Anderson): /\bA\b/g
+2 Trouve l'expression régulière qui cherche la seule occurrence du deuxième prénom de Néo (soit le A. de "Thomas A. Anderson): /A./
 
 3 Trouve l'expression régulière qui cherche la date contenue dans le document : /[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/g
 
